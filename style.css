@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face 
+{
+    font-family: "Triforce";
+    src: url("../assets/fonts/Triforce.ttf");
+}
+
+@font-face 
+{
+    font-family: "Minish";
+    src: url("../assets/fonts/minishcap__v10.ttf");
+}
+
+@font-face 
+{
+    font-family: "Nes";
+    src: url("../assets/fonts/nintendo-nes-font.ttf");
+}
+
+@font-face 
+{
+    font-family: "RockNRoll";
+    src: url("../assets/fonts/RocknRollOne-Regular.ttf");
+}
