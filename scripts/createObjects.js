@@ -15,7 +15,7 @@ class Game
 let game1 = new Game("Skyward Sword", 2011, "WII", "You can fly in the skies and have to save Zelda and Hyrule from Demise", "First before OOT", "assets/images/SkywardSword.jpg");
 let game2 = new Game("Minish Cap", 2004, "Gameboy Advance", "You can turn into a Minish and have to save Zelda and Hyrule from Vaati", "Second before OOT", "assets/images/MinishCap.jpg");
 //let game3 = new Game("Four Swords", 2003, "Gameboy Advance", "Dividing itself in four", "Vaati", "Third before OOT", "assets/images/Zelda.jpg");
-let game4 = new Game("Ocarina Of Time", 1998, "N64", "You can travel in time and have to save Zelda and Hyrule from Ganondorf", "Fourth and divider of the timeline", "assets/images/OcarinaOfTime.jpg");
+let game4 = new Game("Ocarina Of Time", 1998, "N64", "You can travel in time and have to save Zelda and Hyrule from Ganondorf", "Third and divider of the timeline", "assets/images/OcarinaOfTime.jpg");
 let game5 = new Game("A Link To The Past", 1991, "Super Nintendo", "You can travel between worlds and have to save Zelda and Hyrule from Ganon", "First in Defeat timeline", "assets/images/ALinkToThePast.jpg");
 let game6 = new Game("Oracles", 2001, "GameBoy", "They are two different games connected that you can play in any order you like", "Second in Defeat timeline", "assets/images/Oracles.jpg");
 let game7 = new Game("Link's Awakening", 1993, "GameBoy", "The entire adventure is a dream and you have to wake the wind fish to wake up", "Third in Defeat timeline", "assets/images/LinksAwakening.jpg");

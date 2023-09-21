@@ -63,7 +63,8 @@ function submitCard()
 
 function deleteCard()
 {
-    checkboxes.forEach(element => {
+    checkboxes.forEach(element => 
+    {
         if (element.checked)
         {
             element.parentNode.remove();

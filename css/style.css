@@ -617,6 +617,10 @@ video {
   text-align: center;
 }
 
+.font-minish {
+  font-family: Minish, RockNRoll;
+}
+
 .font-nes {
   font-family: Nes, sans-serif;
 }
@@ -655,7 +659,7 @@ video {
 {
   font-family: "Minish";
 
-  src: url("../assets/fonts/minishcap__v10.ttf");
+  src: url("../assets/fonts/minishcap.ttf");
 }
 
 @font-face 

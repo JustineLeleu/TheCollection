@@ -6,7 +6,7 @@ module.exports = {
     fontFamily: 
     {
       triforce: ["Triforce", "sans-serif"],
-      minish: ["Minish", "sans-serif"],
+      minish: ["Minish", "RockNRoll"],
       nes: ["Nes", "sans-serif"],
       rockNRoll: ["RockNRoll", "sans-serif"],
     },
